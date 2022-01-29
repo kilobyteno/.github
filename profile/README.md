@@ -1,1 +1,1 @@
-Hello, we are Kilobyte AS!
+Hello, we are Kilobyte AS! 👋
